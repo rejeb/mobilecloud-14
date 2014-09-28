@@ -12,3 +12,4 @@ build
 .idea
 *.iml
 coursera-submission
+/assignments/Asgn1-VideoUp/.nb-gradle/private/

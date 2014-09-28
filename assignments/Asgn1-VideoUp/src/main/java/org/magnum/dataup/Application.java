@@ -30,7 +30,7 @@ import org.springframework.context.annotation.Configuration;
 @EnableAutoConfiguration
 // This annotation tells Spring to look for controllers, etc.
 // starting in the current package
-@ComponentScan
+@ComponentScan("org.magnum.dataup")
 //This annotation tells Spring that this class contains configuration
 //information
 //for the application.
